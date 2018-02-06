@@ -1,0 +1,21 @@
+h1{
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
+.navbar-custom {
+  background-color:#9999ff;
+   color:#ffffff;
+   border-radius:0;
+}
